@@ -8,3 +8,4 @@ portainer/portainer-ce:latest
 xiaoyaliu/alist:latest
 xiaoyaliu/alist:hostmode
 emby/embyserver
+linuxserver/resilio-sync
