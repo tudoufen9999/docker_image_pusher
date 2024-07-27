@@ -6,3 +6,4 @@ portainer/portainer-ce:latest
 xiaoyaliu/alist:latest
 emby/embyserver
 linuxserver/resilio-sync
+xiaoyaliu/glue:latest
